@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @busrasumeyye
-- I am currently Senior Computer Engineering Student in Çankaya University / Junior Software Developer 👨🏽‍💻
-- My main interest area is cyber security 	:woman_technologist:🌱
+- I am currently Senior Computer Engineering Student in Çankaya University / Junior Software Developer :woman_technologist:
+- My main interest area is cyber security 🌱
